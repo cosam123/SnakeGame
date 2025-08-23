@@ -12,7 +12,11 @@ A snake game created using python and turtle module
 
 
 git clone https://github.com/cosam123/SnakeGame.git 
+
+
 cd SnakeGame
+
+
 python main.py
 
 
